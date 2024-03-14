@@ -28,7 +28,7 @@ client.on('ready', async () => {
     .setURL('https://www.youtube.com/') //
     .setState('an open-world')//تحط اي اسم تبيه يظهر بالحاله
     .setName('I fail in your love')//تحط اي اسم تبيه يظهر بالحاله
-    .setDetails('Genshin Impact')//تحط اي اسم تبيه يظهر بالحاله
+    .setDetails('Hey there!')//تحط اي اسم تبيه يظهر بالحاله
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/avatars/1215160805755199499/61936d0689708cc7192d5518061ba26b.webp?size=2048') //رابط الصوره الكبيره.
 
