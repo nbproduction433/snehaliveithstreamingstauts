@@ -26,17 +26,17 @@ client.on('ready', async () => {
     .setApplicationId('1204154123025387573')//
     .setType('STREAMING')//
     .setURL('https://www.youtube.com/') //
-    .setState('an open-world')//تحط اي اسم تبيه يظهر بالحاله
-    .setName('I fail in your love')//تحط اي اسم تبيه يظهر بالحاله
-    .setDetails('Hey there!')//تحط اي اسم تبيه يظهر بالحاله
+    .setState('Playing')//تحط اي اسم تبيه يظهر بالحاله
+    .setName('♪ I get knocked down, but I get up again! You are never gonna keep me down! ♫')//تحط اي اسم تبيه يظهر بالحاله
+    .setDetails('Valorant')//تحط اي اسم تبيه يظهر بالحاله
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/avatars/1215160805755199499/61936d0689708cc7192d5518061ba26b.webp?size=2048') //رابط الصوره الكبيره.
+ .setAssetsLargeImage('https://i.pinimg.com/originals/b7/cf/62/b7cf62846ae6ae5e96b35cf9d5e05a7c.png') //رابط الصوره الكبيره.
 
-    .setAssetsLargeText('action role-playing') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/651095740390834176/7ac317a9c2fc3540d9dd7d8536cdc749.webp?size=2048') //رابط الصوره الصغيره.
-    .setAssetsSmallText('Diaz') //Text when you hover the Small image
-    .addButton('Talk With Me 🌸','https://discord.gg/zrQnUCuX')//تقدر تحط رابط سيرفر ديسكورد او اي رابط
-    .addButton('Invite me 🌸','https://shorturl.at/sKZ57');//تقدر تحط رابط سيرفر ديسكورد او اي رابط
+    .setAssetsLargeText('Playing') //Text when you hover the Large image
+    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/920938695060774922/a_4c03dee80d0e42e23664cb1d4add4e04.gif?size=2048') //رابط الصوره الصغيره.
+    .setAssetsSmallText('Maharani#xoxo') //Text when you hover the Small image
+    .addButton('➕Add App','https://shorturl.at/svH37')//تقدر تحط رابط سيرفر ديسكورد او اي رابط
+    .addButton('🔗Join Now','https://discord.gg/UwTJGG5jNc ');//تقدر تحط رابط سيرفر ديسكورد او اي رابط
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
