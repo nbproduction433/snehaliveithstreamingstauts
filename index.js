@@ -30,10 +30,10 @@ client.on('ready', async () => {
     .setName('I fail in your love')//تحط اي اسم تبيه يظهر بالحاله
     .setDetails('Genshin Impact')//تحط اي اسم تبيه يظهر بالحاله
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1107569693373509715/1217851430300553227/ffbab8235ddc5c0290ecd6ceccc0a61a.png?ex=66058787&is=65f31287&hm=37b982b132ecde35987cac720f189c81d780fa1424c0e13acccd1c464f45badf&') //رابط الصوره الكبيره.
+ .setAssetsLargeImage('https://cdn.discordapp.com/avatars/1215160805755199499/61936d0689708cc7192d5518061ba26b.webp?size=2048') //رابط الصوره الكبيره.
 
     .setAssetsLargeText('action role-playing') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/1215160805755199499/61936d0689708cc7192d5518061ba26b.webp?size=2048') //رابط الصوره الصغيره.
+    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/651095740390834176/7ac317a9c2fc3540d9dd7d8536cdc749.webp?size=2048') //رابط الصوره الصغيره.
     .setAssetsSmallText('Diaz') //Text when you hover the Small image
     .addButton('Talk With Me 🌸','https://discord.gg/zrQnUCuX')//تقدر تحط رابط سيرفر ديسكورد او اي رابط
     .addButton('Invite me 🌸','https://shorturl.at/sKZ57');//تقدر تحط رابط سيرفر ديسكورد او اي رابط
