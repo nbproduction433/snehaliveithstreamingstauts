@@ -45,5 +45,5 @@ client.on('ready', async () => {
  // Update every second
 });
 
-const mySecret = ['OTIwOTM4Njk1MDYwNzc0OTIy.G-2Gfs.UWBvr9RuTMpqv0MeYvk9gM0iAg3QcORpjfTGjY'];
-client.login('OTIwOTM4Njk1MDYwNzc0OTIy.G-2Gfs.UWBvr9RuTMpqv0MeYvk9gM0iAg3QcORpjfTGjY');
+const mySecret = [''];
+client.login('');
