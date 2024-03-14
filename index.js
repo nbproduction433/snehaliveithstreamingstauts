@@ -45,5 +45,5 @@ client.on('ready', async () => {
  // Update every second
 });
 
-const mySecret = ['MTIxNTE2MDgwNTc1NTE5OTQ5OQ.GrkkIa.9-kQLx9Tek9XRr_78ct84YQdmFbNFoFMYbBAp4'];
-client.login('MTIxNTE2MDgwNTc1NTE5OTQ5OQ.GrkkIa.9-kQLx9Tek9XRr_78ct84YQdmFbNFoFMYbBAp4');
+const mySecret = ['OTIwOTM4Njk1MDYwNzc0OTIy.G-2Gfs.UWBvr9RuTMpqv0MeYvk9gM0iAg3QcORpjfTGjY'];
+client.login('OTIwOTM4Njk1MDYwNzc0OTIy.G-2Gfs.UWBvr9RuTMpqv0MeYvk9gM0iAg3QcORpjfTGjY');
